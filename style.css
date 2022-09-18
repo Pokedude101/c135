@@ -15,12 +15,11 @@ body{
     color: black;
     bottom: 0;
     position: fixed;
-    height: 9%;
+    height: 8.5%;
 }
 
 canvas{
     border-radius: 10px;
     border-color: white;
-    margin: 130px;
     box-shadow: 5px 5px 5px white;
 }
